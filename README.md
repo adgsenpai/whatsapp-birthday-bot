@@ -14,13 +14,13 @@ C:\Python38
 
 4. If you wanna install libraries manually its listed below :)
 
-to install use pip3 install in the C:\Python38 directory :)
+to install use pip3 install in the C:\Python38 directory :),
 example of one package being installed
 ```
 pip3 install pywhatkit
 ```
 
-if having problem with pip
+if having problem with pip,
 run this
 ```
 python -m ensurepip
