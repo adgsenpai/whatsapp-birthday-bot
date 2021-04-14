@@ -12,6 +12,6 @@ View Birthday
 
 ![alt text](https://github.com/ADGVLOGS/whatsapp-birthday-bot/blob/main/screenshots/bday.JPG?raw=true)
 
-View Birthday
+Help
 
 ![alt text](https://github.com/ADGVLOGS/whatsapp-birthday-bot/blob/main/screenshots/help.JPG?raw=true)
