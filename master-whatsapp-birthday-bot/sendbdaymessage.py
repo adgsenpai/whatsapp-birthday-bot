@@ -29,7 +29,7 @@ def sendMessage(database,token):
    message = 'Happy birthday'+' '+emojize(':birthday_cake:')+' '+nameofperson+' '+emojize(":partying_face: :party_popper: :party_popper:")
    print(message)
    now = datetime.datetime.now()    
-   pywhatkit.sendwhatmsg_to_group(token,'Happy birthday :birthday_cake: to '+nameofperson+' :partying_face: :party_popper: :party_popper:',now.hour,now.minute+1)
+   pywhatkit.sendwhatmsg_to_group(token,'Happy birthday to '+nameofperson,now.hour,now.minute+1)
 
 def getDatabase(dirpath):
  config = configparser.ConfigParser()		
