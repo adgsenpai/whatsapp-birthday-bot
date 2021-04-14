@@ -21,8 +21,9 @@ pip3 install pywhatkit
 ```
 
 if having problem with pip
+run this
 ```
-run this python -m ensurepip
+python -m ensurepip
 ```
 
 Packages/Libaries to install
