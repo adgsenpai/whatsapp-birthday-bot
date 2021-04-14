@@ -1,3 +1,4 @@
+![alt text](https://github.com/ADGVLOGS/whatsapp-birthday-bot/blob/main/screenshots/580b57fcd9996e24bc43c543.png)
 # ADG WHATSAPP BIRTHDAY BOT
 WhatsApp Bot to automate sending birthday messages to a group each day in an CSV database file
 
