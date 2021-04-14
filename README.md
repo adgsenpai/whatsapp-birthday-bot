@@ -4,8 +4,13 @@ WhatsApp Bot to automate sending birthday messages to a group each day in an CSV
 # Usage 
 1. Go to the master folder on the git and clone it.
 ```
-git clone 
+git clone https://github.com/ADGVLOGS/whatsapp-birthday-bot/tree/main/master-whatsapp-birthday-bot
+
+or go to https://github.com/ADGVLOGS/whatsapp-birthday-bot/tree/main/master-whatsapp-birthday-bot and download as .zip
 ```
+
+2. Once downloaded and extracted, run WhatsApp Birthday Bot.exe
+3. Enjoy :)
 
 # Requirements
 
