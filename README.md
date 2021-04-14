@@ -12,7 +12,7 @@ C:\Python38
 
 3. You can download my python with the libaries and paste it in the directory mentioned above if you want to skip the next steps and run the program.
 
-4. If you wanna install libaries manually its listed below :)
+4. If you wanna install libraries manually its listed below :)
 
 to install use pip3 install in the C:\Python38 directory :)
 example of one package being installed
