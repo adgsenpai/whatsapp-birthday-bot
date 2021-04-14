@@ -1,4 +1,4 @@
-![]https://github.com/ADGVLOGS/whatsapp-birthday-bot/blob/main/screenshots/580b57fcd9996e24bc43c543.png =250x250)
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
  
 # ADG WHATSAPP BIRTHDAY BOT
 WhatsApp Bot to automate sending birthday messages to a group each day in an CSV database file
