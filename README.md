@@ -5,9 +5,9 @@ WhatsApp Bot to automate sending birthday messages to a group each day in an CSV
 
 # InstallShield Installation
 download files from the link below
-```
+
 https://1drv.ms/u/s!ApHtXJD12z9_1HvfTnJQb_W11B0f?e=vRpe2T
-```
+
 extract and run Setup.exe
 
 # First principal installation 
