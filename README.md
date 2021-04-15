@@ -3,7 +3,14 @@
 # ADG WHATSAPP BIRTHDAY BOT
 WhatsApp Bot to automate sending birthday messages to a group each day in an CSV database file
 
-# Usage 
+# InstallShield Installation
+download files from the link below
+```
+https://1drv.ms/u/s!ApHtXJD12z9_1HvfTnJQb_W11B0f?e=vRpe2T
+```
+extract and run Setup.exe
+
+# First principal installation 
 1. Go to the master folder on the git and clone it.
 ```
 git clone https://github.com/ADGVLOGS/whatsapp-birthday-bot/tree/main/master-whatsapp-birthday-bot
